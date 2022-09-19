@@ -1,4 +1,4 @@
-### Hi there 👋
+### 😎😎😎 MARIK LOLIK 🤑🤑🤑 official page 👋
 
 <!--
 **mariklolik/mariklolik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8EMARIKLOLIK+GITHUB18---%F0%9F%A4%91%F0%9F%A4%91%F0%9F%A4%91)](https://git.io/typing-svg)
+
+### Hi there 👀👀👀
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8EMARIKLOLIK+GITHUB18---%F0%9F%A4%91%F0%9F%A4%91%F0%9F%A4%91)](https://git.io/typing-svg)-->
+
 
 ## Skills
 ### Web - development
