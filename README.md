@@ -39,5 +39,6 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/marshelo44/)
 [![Vkontakte](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=plastic&logo=vk&logoColor=white)](https://vk.com/m.kashirsky)
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariklolik)](https://github.com/anuraghazra/github-readme-stats)
+--!>
